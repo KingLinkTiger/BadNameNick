@@ -1,0 +1,6 @@
+#Add the name of the person who you wish to allow past the filter.
+#There is no need to reload your server, the plugin will reload the file every time it has to check it.
+#bypass:
+#  - Th!sPerson
+#  - OrTh!sPerson
+bypass:
